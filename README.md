@@ -1,29 +1,13 @@
-- Silver is my favorite material.
-- I like doing C
-- ----------------------------------------------
-[![Silver M6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silver-M6)](https://github.com/anuraghazra/github-readme-stats)
-- ----------------------------------------------
-```
-                   -`                    silver@m6
-                  .o+`                   ----- 
-                 `ooo/                   OS: Arch Linux x86_64 
-                `+oooo:                  Host: HP ProDesk 600 G1 SFF 
-               `+oooooo:                 DE: Xfce 
-               -+oooooo+:                CPU: Intel i3-4130 (4) @ 3.400GHz
-             `/:-:++oooo+:               iGPU: Intel 4th Generation Core Processor Family
-            `/++++/+++++++:              Packages: 895 (pacman), 6 (flatpak)
-           `/++++++++++++++:             
-          `/+++ooooooooooooo/`           
-         ./ooosssso++osssssso+`          
-        .oossssso-````/ossssss+`         
-       -osssssso.      :ssssssso.        
-      :osssssss/        osssso+++.       
-     /ossssssss/        +ssssooo/-       
-   `/ossssso+/:-        -:/+osssso+-    
-  `+sso+:-`                 `.-/+oso:    
- `++:.                           `-/+/   
- .`                                 `/ 
+<h1 align="center">Hi 👋, I'm Tuff CWC</h1>
+<h3 align="center">A LCE Fan.</h3>
 
-                                                                 
-                                                                 
-```
+- 🔭 I’m currently working on **A Cheat client for LCE**
+
+- 🌱 I’m currently learning **C++ and C**
+
+- 👯 I’m thinking about updating [Lce Launcher](https://github.com/Silver-M6/lcelauncher)
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
