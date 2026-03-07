@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuff CWC</h1>
 <h3 align="center">A LCE Fan.</h3>
 
-- 🔭 I’m currently working on **A Cheat client for LCE**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **C++ and C**
 
