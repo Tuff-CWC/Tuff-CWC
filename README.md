@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuff CWC</h1>
 <h3 align="center">A LCE Fan.</h3>
 
-- 🔭 I’m currently working on [MinecraftConsolesDebug](https://github.com/Tuff-CWC/MinecraftConsolesDebug)
+- 🔭 I’m currently working on [Nothing](https://127.0.0.1)
 
 - 🌱 I’m currently learning **C++ and C**
 
