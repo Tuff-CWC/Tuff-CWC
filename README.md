@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tuff CWC</h1>
 <h3 align="center">A LCE Fan.</h3>
 
-- 🔭 I’m currently working on [Nothing](https://127.0.0.1)
+- 🔭 I’m currently working on [**Something**](http://localhost:3000/tuffcwc/minecraftcpp-master)
 
 - 🌱 I’m currently learning **C++ and C**
 
-- 👯 I’m thinking about updating [lcelauncher](https://github.com/Silver-M6/lcelauncher)
+- 👯 I’m thinking about updating [lcelauncher](https://github.com/Tuff-CWC/lcelauncher)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
